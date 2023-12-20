@@ -1,4 +1,4 @@
-### Hi there 👋
+Hi github people, I'm Norah!### Hi there 👋
 
 <!--
 **norah9514/norah9514** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
